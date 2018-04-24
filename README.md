@@ -1,2 +1,6 @@
 # HangMan
-A super basic  single-class hangman-game in the console.
+It's hangman - yay?
+
+**TODO:**
+ - Have it draw words from file
+ - Other stuff, probably
